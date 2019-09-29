@@ -1,0 +1,7 @@
+# 省略上面的内容
+# Deployment
+## Docs: https://hexo.io/docs/deployment.html
+deploy:
+  type: git
+  repo: https://github.com/sanmy/sanmy.github.io.git
+  branch: master
